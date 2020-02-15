@@ -25,11 +25,11 @@ author:
 
 
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
+# disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
 
 
 # Google Analytics
-google-analytics: # add your identifier. For example UA-99631805-1.
+google-analytics: UA-158621574-1 # add your identifier. For example UA-99631805-1.
 
 
 # Build settings
