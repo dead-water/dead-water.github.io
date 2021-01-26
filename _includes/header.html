@@ -22,7 +22,8 @@
           <li class="nav__item">
             <a href="{{site.baseurl}}/" class="nav__link">Home</a>
           </li>
-          <!-- {% for page in site.pages %} UNCOMMENT AND ADD A PAGE IN _pages
+<!--           UNCOMMENT AND ADD A PAGE IN _pages -->
+          {% for page in site.pages %} 
             {% unless page.name == 'tags.html' or page.name == '404.html' %}
           {% if page.title %}
           <li class="nav__item">
@@ -30,7 +31,7 @@
           </li>
           {% endif %}
             {% endunless %}
-          {% endfor %} -->
+          {% endfor %}
         </ul>
 
       </div>
