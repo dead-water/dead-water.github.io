@@ -2,7 +2,6 @@
 layout: page
 title: Publications
 permalink: /publications/
-image: '/assets/img/01.jpg'
 ---
 
 - **Project Odysseus**, James Walsh, Patrick O'Hara, Chance Haycock, Edward Thorpe-Woords, Oluwafunmilola Kesa, Andrew Wang, Mihai Ilas, James Brandreth, Oscar Giles, Neil Dhir, Theodoros Damoulas, Computing Insight UK, 2020
