@@ -10,7 +10,8 @@ author:
   name: James Walsh
   image: '/assets/img/james_walsh.jpg'
   job: Research Assistant
-  bio: <strong>Research Assistant</strong> at <a href="https://www.turing.ac.uk/people/researchers/james-walsh">The Alan Turing Institute</a> <br /><br /> Working on <a href="https://www.turing.ac.uk/research/research-projects/physics-informed-statistical-learning-battery-lifetime">physics-informed machine learning</a><br />supervised by <a href="https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/damoulas/">Dr Theo Damoulas</a> 
+#   bio: <strong>Research Assistant</strong> at <a href="https://www.turing.ac.uk/people/researchers/james-walsh">The Alan Turing Institute</a> <br /><br /> Working on <a href="https://www.turing.ac.uk/research/research-projects/physics-informed-statistical-learning-battery-lifetime">physics-informed machine learning</a><br />supervised by <a href="https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/damoulas/">Dr Theo Damoulas</a> 
+  bio: 
   email: forexample@website.com
 
 
