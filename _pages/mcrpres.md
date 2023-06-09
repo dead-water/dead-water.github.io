@@ -26,7 +26,7 @@ change are:
 
 Knowing how to get the ball rolling fast, my immediate actions will be:
 
-1.	**Summer Formals**: Getting a schedule worked out with catering and ensuring it’s a fun summertime for us all after the JCR depart and MPhils graduate!
+1.	**Summer Formals**: Getting a schedule worked out with our fantastic catering team and ensuring it’s a fun summertime for us all after the JCR depart and MPhils graduate!
 2.	**Strengthening Representation**: Pressing for the MCR Treasurer to sit on council, this would give us one more extremely valuable vote and match us with the JCR now that we’ve almost caught them up in size. 
 3.	**Warm Welcome**: Adding a new “Welcoming Officer” role for temporary assignment during late Summer for new students.
 
