@@ -33,7 +33,7 @@ Knowing how to get the ball rolling fast, my immediate actions will be:
 As you can see, our fantastic General Secretary 2022-23 is running as Vice-President. Simply put, she’s my running mate, not that these always work like this. Whilst on her final year of her degree Antonia will be an invaluable source of experience for our committee whilst also a partner in organising events for our (now not-so-little) community!  
 
 
-Outside of college, I’ll be a 2nd year PhD student next year and will be in my 2nd year of role as Treasurer for [CUHWC](https://cuhwc.org.uk). As you’d expect this has involved numerous interactions with various parts of the University already, further benefiting the slow and steady decoding of how Cambridge seems to function. This experience empowers me to navigate the workings of our great institution and advocate effectively on your behalf.  
+Outside of college, I’ll be a 2nd year PhD student in 2023-24 and will be in my 2nd year as Treasurer for [CUHWC](https://cuhwc.org.uk). As you’d expect this has involved numerous interactions with various parts of the University already, further benefiting the slow and steady decoding of how Cambridge seems to function. This experience empowers me to navigate the workings of our great institution and advocate effectively on your behalf.  
 
 
 I'm here to listen, answer questions, and welcome your ideas. Reach out to me on WhatsApp, and together we will shape a vibrant and inclusive MCR community that thrives on unity and opportunity!  
