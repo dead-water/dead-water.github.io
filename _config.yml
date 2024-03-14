@@ -11,18 +11,18 @@ author:
   image: '/assets/img/james_walsh.jpg'
   job: Research Assistant
 #   bio: <strong>Research Assistant</strong> at <a href="https://www.turing.ac.uk/people/researchers/james-walsh">The Alan Turing Institute</a> <br /><br /> Working on <a href="https://www.turing.ac.uk/research/research-projects/physics-informed-statistical-learning-battery-lifetime">physics-informed machine learning</a><br />supervised by <a href="https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/damoulas/">Dr Theo Damoulas</a> 
-  bio: 
-  email: forexample@website.com
+  bio: James Walsh is a 2nd year PhD student working within the <a href="https://ukfires.org/james-walsh/">Use Less research group</a> at the <a href="https://www.fibe-cdt.eng.cam.ac.uk/staff/james-walsh">University of Cambridge</a>. His work focuses on evaluating early-stage design decisions for sustainability of industrial installations. He is supervised by <a href="https://www.uselessgroup.org/about-us/current-people/dr-cyrille-dunant">Dr Cyrille Dunant</a>, advised by <a href="https://www.uselessgroup.org/about-us/current-people/dr-andre-cabrera-serrenho">Dr André Cabrera Serrenho</a>, and funded by <a href="https://www.ukri.org/councils/epsrc/">EPSRC</a> &#38; <a href="https://www.aveva.com/">AVEVA</a> via <a href="https://www.fibe-cdt.eng.cam.ac.uk/">FIBE2</a>. He supervises 2nd year undergraduate mechanics for his college, where he is also the <a href="https://www.girtonmcr.com/committee">President</a> of the Postgraduate Students' Union.
+  email: hello@walsh.dev
 
 
 # Contact links
-# contact:
-#   - name: Twitter
-#     link: https://twitter.com/
-#   - name: Facebook
-#     link: https://facebook.com/
-#   - name: Instagram
-#     link: https://instagram.com/
+contact:
+  - name: Google Scholar
+    link: https://scholar.google.com/citations?view_op=list_works&hl=en&user=gyScxvoAAAAJ
+  - name: LinkedIn
+    link: https://uk.linkedin.com/in/jejwalsh
+  # - name: Instagram
+  #   link: https://instagram.com/
 
 
 # Comment Section (Disqus)
