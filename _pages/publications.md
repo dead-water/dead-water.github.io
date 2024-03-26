@@ -7,3 +7,8 @@ permalink: /publications/
 - **High-Cadence Thermospheric Density Estimation enabled by Machine Learning on Solar Imagery**, Shreshth A Malik\*, James Walsh\*, Giacomo Acciarini, Thomas E. Berger, Atilim Gunes Baydin. November 2023 Machine Learning and the Physical Sciences Workshop, NeurIPS 2023.
 - **Project Odysseus**, James Walsh, Patrick O'Hara, Chance Haycock, Edward Thorpe-Woords, Oluwafunmilola Kesa, Andrew Wang, Mihai Ilas, James Brandreth, Oscar Giles, Neil Dhir, Theodoros Damoulas, Computing Insight UK, 2020.
 - **An Expectation-Based Network Scan Statistic for a COVID-19 Early Warning System**, Chance Haycock, Edward Thorpe-Woods, James Walsh, Patrick O'Hara, Oscar Giles, Neil Dhir, Theodoros Damoulas, In Workshop on Machine Learning in Public Health, NeurIPS'20.
+
+## Awards
+
+- Winner of the Wilkes Award for 2024 ([https://academic.oup.com/comjnl/pages/Wilkes_award?login=false](link))
+- Won CIUK Student Poster Competition 2020
