@@ -10,5 +10,5 @@ permalink: /publications/
 
 ## Awards
 
-- Winner of the Wilkes Award for 2024 ([https://academic.oup.com/comjnl/pages/Wilkes_award?login=false](link))
+- Winner of the Wilkes Award for 2024 ([link](https://academic.oup.com/comjnl/pages/Wilkes_award?login=false))
 - Won CIUK Student Poster Competition 2020
