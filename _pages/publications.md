@@ -11,4 +11,5 @@ permalink: /publications/
 ## Awards
 
 - Winner of the Wilkes Award for 2024 ([link](https://academic.oup.com/comjnl/pages/Wilkes_award?login=false))
+- Letter of Commendation for Master of Research (2022)
 - Won CIUK Student Poster Competition 2020
