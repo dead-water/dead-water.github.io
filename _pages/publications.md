@@ -13,3 +13,10 @@ permalink: /publications/
 - Winner of the Wilkes Award for 2024 ([link](https://academic.oup.com/comjnl/pages/Wilkes_award?login=false))
 - Letter of Commendation for Master of Research (2022)
 - Won CIUK Student Poster Competition 2020
+
+## Highlighted Talks
+
+- Building a foundation model (FM) using Solar Dynamics Observatory (SDO) data: SDO-FM. NASA SMD Software Workshop, May 7-9, 2024, Washington, DC
+- Spanning Chemical Plants​ - Are there potential improvements in plant design?​ FIBE Conference, November 29, 2023, Cambridge, UK
+​
+ 
