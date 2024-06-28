@@ -10,7 +10,7 @@ permalink: /publications/
 
 ## Awards
 
-- Winner of the Wilkes Award, 2024 ([link](https://academic.oup.com/comjnl/pages/Wilkes_award?login=false))
+- Winner of The Computer Journal's Wilkes Award for Best Annual Paper, 2024 ([link](https://academic.oup.com/comjnl/pages/Wilkes_award?login=false))
 - Letter of Commendation for Master of Research, 2022
 - Won CIUK Student Poster Competition, 2020
 - Winner of Outstanding Contribution to University Life from the Cambridge Student Union, 2024 ([link](https://www.cambridgesu.co.uk/news/article/cambridgesu/Cambridge-Students-Awards/), not an academic award, just proud of it!)
