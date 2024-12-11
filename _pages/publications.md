@@ -3,6 +3,7 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+- **A Foundation Model for the Solar Dynamics Observatory**, James Walsh, Daniel G. Gass, Raul Ramos Pollan, Paul J. Wright, Richard Galvez, Noah Kasmanoff, Jason Naradowsky, Anne Spalding, James Parr, Atılım Güneş Baydin, [https://arxiv.org/abs/2410.02530](	arXiv:2410.02530), Oct 2024.
 - **Near Real-Time Social Distancing in London**, James Walsh, Oluwafunmilola Kesa, Andrew Wang, Mihai Ilas, Patrick O'Hara, Neil Dhir, Theodoros Damoulas, The Computer Journal, Volume 67, Issue 1, January 2024, Pages 95–109, [https://doi.org/10.1093/comjnl/bxac160](https://doi.org/10.1093/comjnl/bxac160).
 - **High-Cadence Thermospheric Density Estimation enabled by Machine Learning on Solar Imagery**, Shreshth A Malik\*, James Walsh\*, Giacomo Acciarini, Thomas E. Berger, Atilim Gunes Baydin. November 2023 Machine Learning and the Physical Sciences Workshop, NeurIPS 2023.
 - **Project Odysseus**, James Walsh, Patrick O'Hara, Chance Haycock, Edward Thorpe-Woords, Oluwafunmilola Kesa, Andrew Wang, Mihai Ilas, James Brandreth, Oscar Giles, Neil Dhir, Theodoros Damoulas, Computing Insight UK 2020.
