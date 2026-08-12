@@ -3,7 +3,10 @@ $tablet:  768px;
 $mobile:  576px;
 
 .container {
-  max-width: 670px;
+  /* 740px leaves a 700px content column, enough for the longest group
+     subtitle ("supervised by Prof Theodoros Damoulas, placed at The Alan
+     Turing Institute", 674px) to stay on one line. */
+  max-width: 740px;
 }
 
 .container-full {

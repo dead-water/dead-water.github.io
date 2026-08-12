@@ -33,6 +33,9 @@
 
 .page__content {
   margin-bottom: 45px;
+  /* Bare DOI URLs used as link text are long and unbreakable; without this
+     they overflow the viewport on narrow screens. */
+  overflow-wrap: break-word;
   p {
     font-size: 18px;
     line-height: 32px;
