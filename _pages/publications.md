@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-### Doctorate<span class="affiliation">supervised by <a href="https://www.uselessgroup.org/about-us/current-people/dr-cyrille-dunant">Prof Cyrille Dunant</a>, <a href="https://www.fibe-cdt.eng.cam.ac.uk/people/james-walsh">University of Cambridge</a></span>
+### Doctorate<span class="affiliation">supervised by <a href="https://www.eng.cam.ac.uk/profiles/cfd30">Prof Cyrille Dunant</a>, <a href="https://www.fibe-cdt.eng.cam.ac.uk/people/james-walsh">University of Cambridge</a></span>
 {: #doctorate}
 
 - **Hierarchical enumeration of factory configurations from reaction pathways**, *James Walsh*, Cyrille Dunant, Computers & Chemical Engineering, Volume 213, October 2026, 109753, [https://doi.org/10.1016/j.compchemeng.2026.109753](https://doi.org/10.1016/j.compchemeng.2026.109753).
