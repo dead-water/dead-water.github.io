@@ -45,4 +45,13 @@
   ol li {
     margin-bottom: 15px;
   }
+  .affiliation {
+    display: block;
+    margin-top: 2px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 15px;
+    font-weight: normal;
+    line-height: 1.4;
+    color: $gray-dark;
+  }
 }
