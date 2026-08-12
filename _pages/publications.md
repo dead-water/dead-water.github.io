@@ -36,7 +36,7 @@ permalink: /publications/
 ### Highlighted Talks
 
 - Enumerate, don't commit: Hierarchical process synthesis for the energy transition. Girton College Engineers Symposium, May 16, 2026, Cambridge, UK.
-- Building a foundation model (FM) using Solar Dynamics Observatory (SDO) data: SDO-FM. NASA SMD Software Workshop, May 7-9, 2024, Washington, DC.
+- Building a foundation model using Solar Dynamics Observatory data: SDO-FM. NASA SMD Software Workshop, May 7-9, 2024, Washington, DC.
 - Spanning Chemical Plants​ - Are there potential improvements in plant design?​ FIBE Conference, November 29, 2023, Cambridge, UK.
 ​
  
