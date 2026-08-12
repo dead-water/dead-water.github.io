@@ -26,14 +26,14 @@ permalink: /publications/
 - **Project Odysseus**, *James Walsh*, Patrick O'Hara, Chance Haycock, Edward Thorpe-Woords, Oluwafunmilola Kesa, Andrew Wang, Mihai Ilas, James Brandreth, Oscar Giles, Neil Dhir, Theodoros Damoulas, Computing Insight UK 2020.
 - **An Expectation-Based Network Scan Statistic for a COVID-19 Early Warning System**, Chance Haycock, Edward Thorpe-Woods, *James Walsh*, Patrick O'Hara, Oscar Giles, Neil Dhir, Theodoros Damoulas, [Workshop on Machine Learning in Public Health, NeurIPS 2020](https://arxiv.org/abs/2012.07574).
 
-## Awards
+### Awards
 
 - Winner of The Computer Journal's Wilkes Award for Best Annual Paper, 2024 ([link](https://academic.oup.com/comjnl/pages/Wilkes_award?login=false))
 - Letter of Commendation for Master of Research, 2022
 - Won CIUK Student Poster Competition, 2020
 - Winner of Outstanding Contribution to University Life, The Cambridge Student Union, 2024 ([link](https://web.archive.org/web/20241104134829/https://www.cambridgesu.co.uk/news/article/cambridgesu/Cambridge-Students-Awards/), not an academic award, just proud of it)
 
-## Highlighted Talks
+### Highlighted Talks
 
 - Enumerate, don't commit: Hierarchical process synthesis for the energy transition. Girton College Engineers Symposium, May 16, 2026, Cambridge, UK.
 - Building a foundation model (FM) using Solar Dynamics Observatory (SDO) data: SDO-FM. NASA SMD Software Workshop, May 7-9, 2024, Washington, DC.
