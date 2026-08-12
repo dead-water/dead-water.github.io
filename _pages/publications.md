@@ -9,7 +9,7 @@ permalink: /publications/
 
 - **Hierarchical enumeration of factory configurations from reaction pathways**, *James Walsh*, Cyrille Dunant, Computers & Chemical Engineering, Volume 213, October 2026, 109753, [https://doi.org/10.1016/j.compchemeng.2026.109753](https://doi.org/10.1016/j.compchemeng.2026.109753).
 
-### Trillium Technologies & Frontier Development Lab<span class="affiliation">funded by NASA</span>
+### Trillium Technologies & Frontier Development Lab<span class="affiliation">funded by NASA and sometimes ESA</span>
 {: #fdl}
 
 - **Reasoning With a Star: A Heliophysics Dataset and Benchmark for Agentic Scientific Reasoning**, Kevin Lee, Russell Spiewak, *James Walsh*, [Machine Learning and the Physical Sciences Workshop, NeurIPS 2025](https://arxiv.org/abs/2511.20694).
