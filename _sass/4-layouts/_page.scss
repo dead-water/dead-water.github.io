@@ -45,6 +45,23 @@
   ol li {
     margin-bottom: 15px;
   }
+  /* Links in headings keep the heading's own colour so they stay quiet;
+     a hairline underline is what marks them as links. */
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    a {
+      color: inherit;
+      border-bottom: 1px solid rgba($dark, 0.2);
+      &:hover {
+        color: $primary-color;
+        border-bottom-color: $primary-color;
+      }
+    }
+  }
   .affiliation {
     display: block;
     margin-top: 2px;
@@ -53,5 +70,13 @@
     font-weight: normal;
     line-height: 1.4;
     color: $gray-dark;
+    a {
+      color: inherit;
+      border-bottom: 1px solid rgba($gray-dark, 0.45);
+      &:hover {
+        color: $primary-color;
+        border-bottom-color: $primary-color;
+      }
+    }
   }
 }
