@@ -4,12 +4,12 @@ title: Publications
 permalink: /publications/
 ---
 
-### Doctorate<span class="affiliation">University of Cambridge</span>
+### Doctorate<span class="affiliation"><a href="https://www.fibe-cdt.eng.cam.ac.uk/people/james-walsh">University of Cambridge</a></span>
 {: #doctorate}
 
 - **Hierarchical enumeration of factory configurations from reaction pathways**, *James Walsh*, Cyrille Dunant, Computers & Chemical Engineering, Volume 213, October 2026, 109753, [https://doi.org/10.1016/j.compchemeng.2026.109753](https://doi.org/10.1016/j.compchemeng.2026.109753).
 
-### Trillium Technologies & Frontier Development Lab<span class="affiliation">funded by NASA and ESA</span>
+### [Trillium Technologies](https://trillium.tech/) & [Frontier Development Lab](https://fdl.ai/)<span class="affiliation">funded by <a href="https://www.nasa.gov/">NASA</a> and <a href="https://www.esa.int/">ESA</a></span>
 {: #fdl}
 
 - **Reasoning With a Star: A Heliophysics Dataset and Benchmark for Agentic Scientific Reasoning**, Kevin Lee, Russell Spiewak, *James Walsh*, [Machine Learning and the Physical Sciences Workshop, NeurIPS 2025](https://arxiv.org/abs/2511.20694).
@@ -19,21 +19,21 @@ permalink: /publications/
 - **High-Cadence Thermospheric Density Estimation enabled by Machine Learning on Solar Imagery**, Shreshth A Malik\*, *James Walsh*\*, Giacomo Acciarini, Thomas E. Berger, Atilim Gunes Baydin. [Machine Learning and the Physical Sciences Workshop, NeurIPS 2023](https://arxiv.org/abs/2312.06845).
 - **Incorporating Direct EUV Irradiance from Solar Images into Thermospheric Density Modelling with Machine Learning**, Thomas E. Berger, Shreshth Malik, *James Walsh*, Giacomo Acciarini, Atılım Güneş Baydin, [AGU Fall Meeting 2023, NG12A-05](https://ui.adsabs.harvard.edu/abs/2023AGUFMNG12A..05B/abstract).
 
-### Warwick Machine Learning Group<span class="affiliation">placed at The Alan Turing Institute</span>
+### [Warwick Machine Learning Group](https://wmlg.io/)<span class="affiliation">placed at <a href="https://www.turing.ac.uk/">The Alan Turing Institute</a></span>
 {: #warwick}
 
 - **Near Real-Time Social Distancing in London**, *James Walsh*, Oluwafunmilola Kesa, Andrew Wang, Mihai Ilas, Patrick O'Hara, Neil Dhir, Theodoros Damoulas, The Computer Journal, Volume 67, Issue 1, January 2024, Pages 95–109, [https://doi.org/10.1093/comjnl/bxac160](https://doi.org/10.1093/comjnl/bxac160).
 - **Project Odysseus**, *James Walsh*, Patrick O'Hara, Chance Haycock, Edward Thorpe-Woords, Oluwafunmilola Kesa, Andrew Wang, Mihai Ilas, James Brandreth, Oscar Giles, Neil Dhir, Theodoros Damoulas, Computing Insight UK 2020.
 - **An Expectation-Based Network Scan Statistic for a COVID-19 Early Warning System**, Chance Haycock, Edward Thorpe-Woods, *James Walsh*, Patrick O'Hara, Oscar Giles, Neil Dhir, Theodoros Damoulas, [Workshop on Machine Learning in Public Health, NeurIPS 2020](https://arxiv.org/abs/2012.07574).
 
-## Awards
+### Awards
 
 - Winner of The Computer Journal's Wilkes Award for Best Annual Paper, 2024 ([link](https://academic.oup.com/comjnl/pages/Wilkes_award?login=false))
 - Letter of Commendation for Master of Research, 2022
 - Won CIUK Student Poster Competition, 2020
 - Winner of Outstanding Contribution to University Life, The Cambridge Student Union, 2024 ([link](https://web.archive.org/web/20241104134829/https://www.cambridgesu.co.uk/news/article/cambridgesu/Cambridge-Students-Awards/), not an academic award, just proud of it)
 
-## Highlighted Talks
+### Highlighted Talks
 
 - Enumerate, don't commit: Hierarchical process synthesis for the energy transition. Girton College Engineers Symposium, May 16, 2026, Cambridge, UK.
 - Building a foundation model (FM) using Solar Dynamics Observatory (SDO) data: SDO-FM. NASA SMD Software Workshop, May 7-9, 2024, Washington, DC.
